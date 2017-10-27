@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+<note id = '1'>
+    <treeTag attribute = '159'>
+        <innerTag>
+            <oneMoreInnerTag>
+                Немного информации
+            </oneMoreInnerTag>
+            <justAnotherInnerTag>
+                Немного другой информации
+            </justAnotherInnerTag>
+        </innerTag>
+        <notSoInnerTag id = '99'>
+            Тут тоже информация
+        </notSoInnerTag>
+    </treeTag>
+    <test>
+        Проверка
+    </test>
+    <anotherTag>
+        Опять проверка
+    </anotherTag>
+</note>
+
+
+
