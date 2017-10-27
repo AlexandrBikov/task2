@@ -13,7 +13,7 @@ public class DAOReader {
     /**
      *      Reads information from xml file
      *
-     * @return true if reading was successful
+     * @return String line with text from file
      * */
      public String readFile() throws DAOReaderException {
 
